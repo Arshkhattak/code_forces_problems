@@ -58,5 +58,5 @@ Feel free to check out my other repositories and connect with me on GitHub!
 ---
 
 <div align="center">
-Made with ❤️ and lots of debugging by <b>Arsh Khattak</b>
+Made with ❤️ and lots of debugging by <b>Areeba Sohail </b>
 </div>
