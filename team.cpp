@@ -1,10 +1,10 @@
 #include<iostream>
-#include<cmath>
+
 using namespace std;
 int main()
 {
     int n;
-   // cout<<"Enter the number of the friend to solve the soluton"<<endl;
+    cout << "Enter the number of the friend...only (0..1)" << endl; 
     cin>>n;
     int count = 0;
 
