@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
     char word[100];
-    cout<<"Enter the word more than 10 words"<<endl;
     cin>>word;
     int len = strlen(word);
     for(int i = 0;i<len;i++)
